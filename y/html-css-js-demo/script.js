@@ -1,0 +1,1 @@
+function showMessage(){ alert('JS works!'); }

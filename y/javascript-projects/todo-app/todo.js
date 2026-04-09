@@ -1,0 +1,1 @@
+let tasks=[]; function addTask(t){tasks.push(t);console.log(tasks);} addTask('Learn GitHub');
